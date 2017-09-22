@@ -19,8 +19,8 @@ limits.conf
 
 /etc/security/limits.conf
 
-    soft nofile 4096
-    hard nofile 4096
+*                soft    nofile          4096
+*                hard    nofile          4096
 
 
 
