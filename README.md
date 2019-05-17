@@ -1,5 +1,5 @@
 # nginx.conf
-Configuring NGINX for VM
+Configuring NGINX for EC2/GCE
 
 
 
