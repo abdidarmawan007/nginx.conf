@@ -1,5 +1,5 @@
 # nginx.conf
-Configuring NGINX for maximum throughput under high Traffic
+Configuring NGINX for VM
 
 
 
