@@ -1,5 +1,5 @@
 # nginx.conf
-Configuring NGINX for EC2/GCE (4 Core CPU) in production 
+Configuring NGINX for EC2/GCE (4 Core CPU) in production based on experience for stability and performance
 
 
 
