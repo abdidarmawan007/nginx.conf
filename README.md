@@ -1,5 +1,5 @@
 # nginx.conf
-Configuring NGINX for EC2/GCE
+Configuring NGINX for EC2/GCE in production
 
 
 
