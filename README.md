@@ -25,6 +25,12 @@ limits.conf
 
 /etc/security/limits.conf
 
-`* soft nofile 4096`
+`* soft     nproc          65535`    
+`* hard     nproc          65535` 
+`* soft     nofile         65535`   
+`* hard     nofile         65535`
+`root soft     nproc          65535`    
+`root hard     nproc          65535`   
+`root soft     nofile         65535`
+`root hard     nofile         65535`
 
-`* hard nofile 4096`
